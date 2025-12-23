@@ -8,9 +8,6 @@ FlashPipe is a macOS-native application built with **SwiftUI**, designed to simp
 
 **FlashPipe is currently in Public Beta.** 🎊 
 
-> [!CAUTION]
-> **Source Code Notice:** The source code currently available in this repository may be **outdated** compared to the latest binary release. I am working on cleaning up the latest build's code before pushing the full update. 🏗️
-
 > [!NOTE]
 > This repository is under active development. You may encounter incomplete features or placeholders as we work toward a stable 1.0 release.
 
