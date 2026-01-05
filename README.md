@@ -40,7 +40,7 @@ Click the link below to find the latest builds, source zips, and release notes:
 ### Installation
 1. Download the `FlashPipe_0.6_RC.dmg` from the releases page.
 2. Open the DMG and drag **FlashPipe** to your `/Applications` folder.
-3. **Security Note:** Since I don;t have a paid developer account, you may need to right-click the app and select **Open**, or allow it in **System Settings > Privacy & Security** if macOS blocks the initial launch. 🛡️
+3. **Security Note:** Since I don't have a paid developer account, you may need to right-click the app and select **Open**, or allow it in **System Settings > Privacy & Security** if macOS blocks the initial launch. 🛡️
 
 ---
 
