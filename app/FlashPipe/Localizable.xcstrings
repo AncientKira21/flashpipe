@@ -1,0 +1,1371 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
+        }
+      }
+    },
+    "                            Follow these steps to install a ROM using ADB Sideload:\n                                1. Reboot to Recovery\n                                • Most devices: Power + Volume Up → Recovery Mode\n                                • Pixel/Stock Android: Recovery → Apply update → Apply from ADB\n                                • OrangeFox: Recovery → Settings → ADB & Sideload → Start Sideload\n                                • PBRP: Unsupported, try OrangeFox.\n                                2. Enable ADB Sideload Mode\n                                • Select \"Apply from ADB\" in recovery.\nDisable FBE Instructions:\n    • Go Back and re-enter sideload mode.\n    • Download the FBE disabler zip online.\n    • Click Disable FBE to flash the zip.\nWarnings:\n    • This disables File-Based Encryption.\n    • Data loss may occur on some ROMs." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "                            Sigue estos pasos para instalar una ROM usando ADB Sideload:\n                                1. Reinicia en Recovery\n                                • Mayoría de dispositivos: Encender + Subir volumen → Modo Recovery\n                                • Pixel/Stock Android: Recovery → Aplicar actualización → Aplicar desde ADB\n                                • OrangeFox: Recovery → Configuración → ADB & Sideload → Iniciar Sideload\n                                • PBRP: No es compatible, prueba OrangeFox.\n                                2. Activar Modo ADB Sideload\n                                • Selecciona \"Aplicar desde ADB\" en recovery.\nInstrucciones para Desactivar FBE:\n    • Vuelve atrás y reingresa al modo sideload.\n    • Descarga el archivo zip para deshabilitar FBE en línea.\n    • Pulsa Desactivar FBE para flashear el zip.\nAdvertencias:\n    • Esto deshabilita el Cifrado Basado en Archivos (FBE).\n    • Puede ocurrir pérdida de datos en algunas ROMs."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "                            ADB Sideload ကိုသုံးပြီး ROM ထည့်သွင်းရန် အောက်ပါအဆင့်များကို လိုက်နာပါ–\n                                ၁။ Recovery ကို ပြန်လည်စတင်ပါ\n                                • စက်အများစု– ပါဝါ + အသံအတိုးခလုတ်ကို နှိပ် → Recovery Mode\n                                • Pixel/Stock Android– Recovery → Apply update → Apply from ADB\n                                • OrangeFox– Recovery → Settings → ADB & Sideload → Start Sideload\n                                • PBRP– မပံ့ပိုးပါ၊ OrangeFox ကို စမ်းကြည့်ပါ။\n                                ၂။ ADB Sideload Mode ကို ဖွင့်ပါ\n                                • recovery တွင် \"Apply from ADB\" ကို ရွေးချယ်ပါ။\nFBE ပိတ်ရန် လမ်းညွှန်များ:\n    • နောက်သို့ ပြန်သွားပြီး sideload mode ကို ပြန်ဝင်ပါ။\n    • FBE disabler zip ကို အွန်လိုင်းမှ ဒေါင်းလုဒ်လုပ်ပါ။\n    • zip ဖလက်ရှ်ရန် Disable FBE ကို နှိပ်ပါ။\nသတိပေးချက်များ:\n    • ၎င်းသည် File-Based Encryption ကို ပိတ်သွားမည်။\n    • ROM အချို့တွင် ဒေတာဆုံးရှုံးမှု ဖြစ်ပေါ်နိုင်သည်။"
+          }
+        }
+      }
+    },
+    "                            Follow these steps to install a ROM using ADB Sideload:\n                                1. Reboot to Recovery\n                                • Most devices: Power + Volume Up → Recovery Mode\n                                • Pixel/Stock Android: Recovery → Apply update → Apply from ADB\n                                • OrangeFox: Recovery → Settings → ADB & Sideload → Start Sideload\n                                • PBRP: Unsupported, try OrangeFox.\n                                2. Enable ADB Sideload Mode\n                                • Select \"Apply from ADB\" in recovery.\nRooting Instructions:\n    • Go Back and re-enter sideload mode.\n    • Download Magisk or KernelSU from the official website.\n    • Rename the .apk to .zip\n    • Press “Install Magisk/KernelSU” above to flash it." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "                            Sigue estos pasos para instalar una ROM usando ADB Sideload:\n                                1. Reinicia en Recovery\n                                • Mayoría de dispositivos: Encender + Subir volumen → Modo Recovery\n                                • Pixel/Stock Android: Recovery → Aplicar actualización → Aplicar desde ADB\n                                • OrangeFox: Recovery → Configuración → ADB & Sideload → Iniciar Sideload\n                                • PBRP: No es compatible, prueba OrangeFox.\n                                2. Activar Modo ADB Sideload\n                                • Selecciona \"Aplicar desde ADB\" en recovery.\nInstrucciones para Rootear:\n    • Vuelve atrás y reingresa al modo sideload.\n    • Descarga Magisk o KernelSU desde el sitio web oficial.\n    • Cambia el nombre del .apk a .zip\n    • Pulsa “Instalar Magisk/KernelSU” arriba para flashear."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "                            ADB Sideload ကိုသုံးပြီး ROM ထည့်သွင်းရန် အောက်ပါအဆင့်များကို လိုက်နာပါ–\n                                ၁။ Recovery ကို ပြန်လည်စတင်ပါ\n                                • စက်အများစု– ပါဝါ + အသံအတိုးခလုတ်ကို နှိပ် → Recovery Mode\n                                • Pixel/Stock Android– Recovery → Apply update → Apply from ADB\n                                • OrangeFox– Recovery → Settings → ADB & Sideload → Start Sideload\n                                • PBRP– မပံ့ပိုးပါ၊ OrangeFox ကို စမ်းကြည့်ပါ။\n                                ၂။ ADB Sideload Mode ကို ဖွင့်ပါ\n                                • recovery တွင် \"Apply from ADB\" ကို ရွေးချယ်ပါ။\nRoot လုပ်ရန် လမ်းညွှန်များ:\n    • နောက်သို့ ပြန်သွားပြီး sideload mode ကို ပြန်ဝင်ပါ။\n    • တရားဝင် ဝက်ဘ်ဆိုဒ်မှ Magisk သို့မဟုတ် KernelSU ကို ဒေါင်းလုဒ်လုပ်ပါ။\n    • .apk ကို .zip ဟု နာမည်ပြောင်းပါ။\n    • အပေါ်ရှိ “Install Magisk/KernelSU” ကိုနှိပ်ပြီး ဖလက်ရှ်ပါ။"
+          }
+        }
+      }
+    },
+    "(Samsung-only) Download mode" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Solo Samsung) Modo Download"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "(Samsung အတွက်သာ) Download mode"
+          }
+        }
+      }
+    },
+    "%@" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%lld%%" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld%%"
+          }
+        }
+      }
+    },
+    "About" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အကြောင်း"
+          }
+        }
+      }
+    },
+    "About FlashPipe" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de FlashPipe"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FlashPipe အကြောင်း"
+          }
+        }
+      }
+    },
+    "ADB" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADB"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADB"
+          }
+        }
+      }
+    },
+    "ADB Devices" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dispositivos ADB"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADB စက်များ"
+          }
+        }
+      }
+    },
+    "ADB Setup Instructions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones de Configuración ADB"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADB စနစ်ထည့်သွင်းမှု လမ်းညွှန်များ"
+          }
+        }
+      }
+    },
+    "ADB Sideload Instructions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones de ADB Sideload"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADB Sideload လမ်းညွှန်များ"
+          }
+        }
+      }
+    },
+    "App will reboot your device into bootloader. You will have to flash a custom recovery of your choice tht is made for your device in order to flash a custom ROM. For a GSI, you will need a GSI of your choice. If your ROM has got individual images, the app will handle them. Continue?" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La aplicación reiniciará su dispositivo en el bootloader. Deberá flashear un custom recovery de su elección hecho para su dispositivo para poder flashear una custom ROM. Para una GSI, necesitará una GSI de su elección. Si su ROM tiene imágenes individuales, la aplicación las manejará. ¿Continuar?"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အက်ပ်သည် သင့်စက်ကို bootloader ထဲသို့ ပြန်လည်စတင်မည်။ custom ROM ဖလက်ရှ်ရန်အတွက် သင့်စက်အတွက် ပြုလုပ်ထားသော custom recovery ကို ရွေးချယ်ပြီး ဖလက်ရှ်ရမည်။ GSI အတွက် သင်ရွေးချယ်ထားသော GSI လိုအပ်မည်။ သင့် ROM တွင် ပုံများ တစ်ခုချင်းစီ ပါရှိပါက၊ အက်ပ်က ၎င်းတို့ကို ကိုင်တွယ်မည်။ ဆက်လုပ်မလား?"
+          }
+        }
+      }
+    },
+    "App will restart and use your preferred language." : {
+
+    },
+    "Are you sure you want to lock the bootloader?\n\n• This may wipe data again.\n• Your device will bootloop unless it is completely stock (no root).\n\nContinue?" : {
+
+    },
+    "Are you sure you want to unlock the bootloader?\n\n• This may wipe all user data.\n• You will void your warranty.\n• BACK UP before continuing.\n\nAfter unlocking, you can install custom ROMs or GSIs.\n\nContinue?" : {
+
+    },
+    "Bootloader…" : {
+
+    },
+    "Cancel" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancelar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပယ်ဖျက်မည်"
+          }
+        }
+      }
+    },
+    "Checking Tools…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprobando herramientas…"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကိရိယာများကို စစ်ဆေးနေသည်…"
+          }
+        }
+      }
+    },
+    "Close" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerrar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပိတ်မည်"
+          }
+        }
+      }
+    },
+    "Coming Soon!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Próximamente!"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "မကြာမီလာမည်!"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆက်လုပ်မည်"
+          }
+        }
+      }
+    },
+    "Continue & Reboot to Bootloader" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar y Reiniciar en Bootloader"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆက်လုပ်ပြီး Bootloader သို့ ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Continue & Reboot to Download Mode" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar y Reiniciar en Modo Download"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဆက်လုပ်ပြီး Download Mode သို့ ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Credits" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Créditos"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဂုဏ်ပြုမှတ်တမ်းများ"
+          }
+        }
+      }
+    },
+    "Custom recovery flashed. Reboot to recovery?" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom recovery flasheado. ¿Reiniciar en recovery?"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom recovery ဖလက်ရှ်ပြီးပါပြီ။ recovery သို့ ပြန်လည်စတင်မလား?"
+          }
+        }
+      }
+    },
+    "Device" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dispositivo"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက်"
+          }
+        }
+      }
+    },
+    "Device Detected" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dispositivo Detectado"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက်ကို တွေ့ရှိပြီ"
+          }
+        }
+      }
+    },
+    "Devices Detected" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dispositivos Detectados"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက်များကို တွေ့ရှိပြီ"
+          }
+        }
+      }
+    },
+    "Disable FBE" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deshabilitar FBE"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FBE ကို ပိတ်ပါ"
+          }
+        }
+      }
+    },
+    "Disable FBE Instructions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones para Deshabilitar FBE"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FBE ပိတ်ရန် လမ်းညွှန်များ"
+          }
+        }
+      }
+    },
+    "Dismiss" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descartar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပယ်ဖျက်ပါ"
+          }
+        }
+      }
+    },
+    "Do not disconnect your device." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No desconectes tu dispositivo."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်စက်ကို ချိတ်ဆက်မှု မဖြုတ်ပါနှင့်။"
+          }
+        }
+      }
+    },
+    "Download Mode" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modo Download"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download Mode"
+          }
+        }
+      }
+    },
+    "Fastboot" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastboot"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastboot"
+          }
+        }
+      }
+    },
+    "Fastboot Setup Instructions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones de Configuración Fastboot"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastboot စနစ်ထည့်သွင်းမှု လမ်းညွှန်များ"
+          }
+        }
+      }
+    },
+    "Fastbootd" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastbootd"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastbootd"
+          }
+        }
+      }
+    },
+    "Flash" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flashear"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဖလက်ရှ်"
+          }
+        }
+      }
+    },
+    "Flash complete! What's next?\n\nRoot your device, disable FBE, or reboot and enjoy your new ROM." : {
+
+    },
+    "Flash ROM" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flashear ROM"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ROM ဖလက်ရှ်ပါ"
+          }
+        }
+      }
+    },
+    "Flash…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flasheando…"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဖလက်ရှ်နေသည်…"
+          }
+        }
+      }
+    },
+    "Flashing a GSI disables boot verification and WILL wipe user data.\nAlways BACK UP before doing this.\n\nGSIs can brick your device if incorrect.\nGSIs require the correct vbmeta.img.\nGSIs are mostly compatible with Android 8+ devices.\nQualcomm devices have better GSI compatibility than MediaTek.\n\nLearn more:\nhttps://customrombay.org/posts/gsi_roms/" : {
+
+    },
+    "Flashing Failed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flasheo Fallido"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဖလက်ရှ်ခြင်း မအောင်မြင်ပါ"
+          }
+        }
+      }
+    },
+    "Flashing…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flasheando…"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဖလက်ရှ်နေသည်…"
+          }
+        }
+      }
+    },
+    "FlashPipe" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FlashPipe"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "FlashPipe"
+          }
+        }
+      }
+    },
+    "Follow these steps to install a ROM using ADB Sideload:\n    1. Reboot to Recovery\n    • Most devices: Power + Volume Up → Recovery Mode\n    • Pixel/Stock Android: Recovery → Apply update → Apply from ADB\n    • OrangeFox: Recovery → Settings → ADB & Sideload → Start Sideload\n    • PBRP: Unsupported, try OrangeFox.\n    2. Enable ADB Sideload Mode\n    • Select \"Apply from ADB\" in recovery.\n    3. Choose your ZIP.\n    4. Start the process using the button above." : {
+
+    },
+    "Go to Fastboot" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ir a Fastboot"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fastboot သို့ သွားပါ"
+          }
+        }
+      }
+    },
+    "Go to Settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ir a Configuración"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စနစ်ထည့်သွင်းမှုသို့ သွားပါ"
+          }
+        }
+      }
+    },
+    "GSI" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GSI"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GSI"
+          }
+        }
+      }
+    },
+    "GSI Flash Failed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flasheo de GSI Fallido"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GSI ဖလက်ရှ်ခြင်း မအောင်မြင်ပါ"
+          }
+        }
+      }
+    },
+    "GSI flashed successfully. Reboot to system?" : {
+
+    },
+    "If your device doesn’t appear, enable Developer options and USB debugging (steps vary by device):\n\n1. Developer options\n   • Most devices: Settings → About phone → tap “Build number” seven times.\n   • MIUI/HyperOS: Settings → About phone → tap “MIUI version” seven times.\n\n2. USB debugging\n   • Open Developer options (System → Developer options, or Additional settings → Developer options on MIUI/HyperOS).\n   • Turn on USB debugging.\n\n3. Connect & trust\n   • Connect via USB.\n   • When prompted on the device, allow USB debugging (you can select “Always allow from this computer”).\n   • Click Refresh above." : {
+
+    },
+    "Install Failed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalación Fallida"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ထည့်သွင်းခြင်း မအောင်မြင်ပါ"
+          }
+        }
+      }
+    },
+    "Install Magisk/KernelSU" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalar Magisk/KernelSU"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magisk/KernelSU ကို ထည့်သွင်းပါ"
+          }
+        }
+      }
+    },
+    "Install Tools" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalar Herramientas"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကိရိယာများ ထည့်သွင်းပါ"
+          }
+        }
+      }
+    },
+    "Install tools to start fixing your devices!" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¡Instala las herramientas para empezar a arreglar tus dispositivos!"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့်စက်များကို စတင်ပြင်ဆင်ရန် ကိရိယာများ ထည့်သွင်းပါ။"
+          }
+        }
+      }
+    },
+    "Installation failed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalación fallida"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ထည့်သွင်းခြင်း မအောင်မြင်ပါ"
+          }
+        }
+      }
+    },
+    "Installing Tools…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instalando herramientas…"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကိရိယာများ ထည့်သွင်းနေသည်…"
+          }
+        }
+      }
+    },
+    "Language" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာစကား"
+          }
+        }
+      }
+    },
+    "Language changed" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma cambiado"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘာသာစကား ပြောင်းလဲပြီး"
+          }
+        }
+      }
+    },
+    "Lock Bootloader" : {
+
+    },
+    "Lock Bootloader?" : {
+
+    },
+    "Logo" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Logo"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "လိုဂို"
+          }
+        }
+      }
+    },
+    "Logo flashed. Reboot to system?" : {
+
+    },
+    "My device is bricked, and I want to unbrick it" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi dispositivo está brickeado, y quiero desbrickearlo"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကျွန်ုပ်၏စက်သည် ပျက်စီးနေပြီး ပြန်လည်ပြင်ဆင်လိုပါသည်"
+          }
+        }
+      }
+    },
+    "My device is running, but I want to MOD it" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mi dispositivo está funcionando, pero quiero MODificarlo"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ကျွန်ုပ်၏စက်သည် အလုပ်လုပ်နေသော်လည်း MOD လုပ်ချင်သည်"
+          }
+        }
+      }
+    },
+    "No device selected" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ningún dispositivo seleccionado"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက် ရွေးချယ်ထားခြင်း မရှိပါ"
+          }
+        }
+      }
+    },
+    "No devices detected" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se detectaron dispositivos"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက်များကို တွေ့ရှိခြင်း မရှိပါ"
+          }
+        }
+      }
+    },
+    "No devices found." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se encontraron dispositivos."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက်များ မတွေ့ရှိပါ။"
+          }
+        }
+      }
+    },
+    "Normal Reboot" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reiniciar Normal"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပုံမှန် ပြန်လည်စတင်ခြင်း"
+          }
+        }
+      }
+    },
+    "OK" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "အိုကေ"
+          }
+        }
+      }
+    },
+    "Operation completed. Reboot now, or disable FBE." : {
+
+    },
+    "Operation completed. Reboot now, or root your device." : {
+
+    },
+    "Operation successful!" : {
+
+    },
+    "Please ensure your Android device is connected and in fastboot mode." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asegúrate de que tu dispositivo Android esté conectado y en modo fastboot."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့် Android စက်ကို ချိတ်ဆက်ထားပြီး fastboot mode တွင် ရှိနေကြောင်း သေချာပါစေ။"
+          }
+        }
+      }
+    },
+    "Please ensure your Android device is connected and in sideload mode." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asegúrate de que tu dispositivo Android esté conectado y en modo sideload."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့် Android စက်ကို ချိတ်ဆက်ထားပြီး sideload mode တွင် ရှိနေကြောင်း သေချာပါစေ။"
+          }
+        }
+      }
+    },
+    "Please ensure your Android device is connected and USB debugging is enabled." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Asegúrate de que tu dispositivo Android esté conectado y la depuración USB esté habilitada."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သင့် Android စက်ကို ချိတ်ဆက်ထားပြီး USB debugging ကို ဖွင့်ထားကြောင်း သေချာပါစေ။"
+          }
+        }
+      }
+    },
+    "Reboot" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reiniciar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Reboot Device" : {
+
+    },
+    "Reboot to System" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reiniciar en el Sistema"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စနစ်သို့ ပြန်လည်စတင်ပါ"
+          }
+        }
+      }
+    },
+    "Reboot…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reiniciando…"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပြန်လည်စတင်နေသည်…"
+          }
+        }
+      }
+    },
+    "Recovery" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recovery"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recovery"
+          }
+        }
+      }
+    },
+    "Refresh" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပြန်လည်ဆန်းသစ်ပါ"
+          }
+        }
+      }
+    },
+    "Refresh devices" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actualizar dispositivos"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက်များ ပြန်လည်ဆန်းသစ်ပါ"
+          }
+        }
+      }
+    },
+    "ROM" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ROM"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ROM"
+          }
+        }
+      }
+    },
+    "Root" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root"
+          }
+        }
+      }
+    },
+    "Rooting Instructions" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Instrucciones de Rooteo"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Root လုပ်ရန် လမ်းညွှန်များ"
+          }
+        }
+      }
+    },
+    "Searching for devices…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscando dispositivos…"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက်များကို ရှာဖွေနေသည်…"
+          }
+        }
+      }
+    },
+    "Select a fastboot device" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar un dispositivo fastboot"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "fastboot စက်တစ်ခု ရွေးချယ်ပါ"
+          }
+        }
+      }
+    },
+    "Select Device" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar Dispositivo"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စက် ရွေးချယ်ပါ"
+          }
+        }
+      }
+    },
+    "Selected:" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionado:"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ရွေးချယ်ထားသည်:"
+          }
+        }
+      }
+    },
+    "Settings…" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración…"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စနစ်ထည့်သွင်းမှုများ…"
+          }
+        }
+      }
+    },
+    "Sidebar" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barra lateral"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဘေးဘောင်"
+          }
+        }
+      }
+    },
+    "Sideload Failed." : {
+
+    },
+    "Start" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "စတင်"
+          }
+        }
+      }
+    },
+    "Supported Languages" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idiomas Soportados"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ပံ့ပိုးထားသော ဘာသာစကားများ"
+          }
+        }
+      }
+    },
+    "To use Fastboot, ensure:\n\n1. Your device is in Fastboot mode:\n   • From Android: adb reboot bootloader\n   • Or manually: Power off → hold Volume Down + Power.\n\n2. Connect your device via USB.\n\n3. Click Refresh to detect the fastboot device.\n\nFastboot mode is required for tasks such as flashing recovery, boot images, or preparing for ROM installation." : {
+
+    },
+    "Unlock Bootloader" : {
+
+    },
+    "Unlock Bootloader?" : {
+
+    },
+    "Version %@ (%@)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Version %1$@ (%2$@)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Versión %1$@ (%2$@)"
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ဗားရှင်း %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "WARNING: Flashing a GSI will wipe all data." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ADVERTENCIA: Flashear una GSI borrará todos los datos."
+          }
+        },
+        "my" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "သတိပေးချက်– GSI ဖလက်ရှ်ခြင်းသည် ဒေတာအားလုံးကို ဖျက်ပစ်မည်။"
+          }
+        }
+      }
+    },
+    "You are about to flash a ROM ZIP using ADB Sideload.\nMake sure your device is in Recovery → Apply update → Apply from ADB.\nThis process may wipe data depending on the ROM.\nContinue?" : {
+
+    }
+  },
+  "version" : "1.1"
+}

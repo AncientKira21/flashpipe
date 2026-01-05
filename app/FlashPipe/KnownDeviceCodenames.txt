@@ -1,0 +1,403 @@
+Redmi Series
+Redmi 1, WCDMA = hm2013023
+Redmi 1S, WCDMA = armani
+Redmi 2, WCDMA = wt88047
+Redmi 2A / Enhanced = wt86047
+Redmi 2 Pro = hm2014819
+Redmi 3 / 3 Pro / 3 Prime = ido
+Redmi 3S / 3X / 3S Prime = land
+Redmi 4A = rolex
+Redmi 4 = prada
+Redmi 4 PRO = markw
+Redmi 4x / Redmi 4 India = santoni
+Redmi 5A = riva
+Redmi 5 = rosy
+Redmi 5 Plus / Redmi Note 5 India = vince
+Redmi Pro = omega
+Redmi S2 / Y2 India = ysl
+Redmi Y3 = onc_global
+Redmi 6A = cactus
+Redmi 6 = cereus
+Redmi 6 Pro = sakura
+Redmi 6 Pro (India) = sakura_india
+Redmi 7 = onclite
+Redmi 7A = pine
+Redmi 8 = olive
+Redmi 8 (Global) = olive_global
+Redmi 8A =  olivelite
+Redmi 8A (Global) = olivelite_global
+Redmi GO = tiare
+Redmi 10X (5G) = atom
+Redmi 10X Pro = bomb
+Redmi 9 / Redmi 9 Prime = lancelot
+Redmi 9 Dual Camera Version = cattail
+Redmi 9C = angelica
+Redmi 9A = dandelion
+Redmi 9 Power = limein
+Redmi 9T = lime
+Redmi 10 = selene
+
+Redmi Note Series
+Redmi Note 1 / 3G-MTK = lcsh92_wet_jb9
+Redmi Note 1S = gucci
+Redmi Note 1 / 4G Duall Sim - Snapdragon = dior
+Redmi Note 2 = hermes
+Redmi Note 3 (MTK) = hennessy
+Redmi Note 3 (Qualcomm)/Redmi Note 3 Pro = kenzo
+Redmi Note 3 SE = kate
+Redmi Note 4 (MTK) = nikel
+Redmi Note 4X / Redmi Note 4 (Qualcomm) = mido
+Redmi Note 5a Prime / Y1 India = ugg
+Redmi Note 5a / Y1 Lite India = ugglite
+Redmi Note 5 AI / Pro India = whyred
+Redmi Note 6 Pro = tulip
+Redmi Note 7 = lavender
+Redmi Note 7 Pro = violet
+Redmi Note 8 = ginkgo
+Redmi Note 8 (Global) = ginkgo_global
+Redmi Note 8T = willow
+Redmi Note 8T (Global) = willow_global
+Redmi Note 8 Pro = begonia
+Redmi Note 8 Pro (Global) = begonia_global
+Redmi Note 8 Pro (India) = begoniain
+Redmi Note 9 / Redmi 10X (4G) = merlin
+Redmi Note 9S / Pro (India) = curtana
+Redmi Note 9 Pro = joyeuse
+Redmi Note 9 Pro Max = excalibur
+Redmi Note 9 Pro 5G = lime
+Redmi Note 9T = cannong
+Redmi Note 10 = mojito
+Redmi Note 10 (Sunny) = sunny
+Redmi Note 10 Pro (64MP Edition) = sweet
+Redmi Note 10 Pro / Max (India) = sweetin
+Redmi Note 10S = rosemary
+Redmi Note 10 5G / POCO M3 Pro 5G = camellia
+Redmi Note 11 (China) / POCO M4 Pro 5G = evergo
+Redmi Note 11 (Global) = spes
+Redmi Note 11 Pro 5G / POCO X4 Pro 5G = veux
+Redmi Note 12 Pro (Global) = ruby
+Redmi Note 13 4G / POCO M6 Pro 4G = emerald
+Redmi Note 13 5G = gold
+Redmi Note 13 Pro 4G = sapphire
+Redmi Note 13 Pro 5G = zircon
+Redmi Note 13 Pro+ 5G = garnet
+Redmi Note 14 4G = iron
+Redmi Note 14 5G = cobalt
+Redmi Note 14 Pro 5G = agate
+Redmi Note 14 Pro+ 5G = coral
+Redmi Note 15 = peridot
+Redmi Note 15 Pro = flourite
+Redmi Note 15 Pro+ = garnet
+
+Redmi K Series
+Redmi K20 / Mi 9T = davinci
+POCO F3 / Xiaomi Mi 11X / Redmi K40 = alioth
+Redmi K20 Pro / Mi 9T Pro = raphaelin
+Redmi K20 Pro / Mi 9T Pro (Alternate) = raphael
+Redmi K20 Pro Premium Edition = raphaels
+Redmi K30 (4G) = phoenix
+Redmi K30 (5G) = picasso
+Redmi K30 Pro = lmi / POCO F2 Pro
+Redmi K30 Ultra = cezanne
+Redmi K40 / POCO F3 / Xiaomi Mi 11X = alioth
+Redmi K40 Gaming = ares / POCO F3 GT
+Redmi K40 Pro = haydn
+
+Mi A Series
+Mi A1 = tissot
+Mi A2 = jasmine
+Mi A2 Lite = daisy
+Mi A3 = bamboo_sprout
+
+Mi Series
+Mi 1 / S = mione_plus
+Mi 2 = aries
+Mi 3 TD = pisces
+Mi 3 / Mi 4, LTE / WCDMA = cancro
+Mi 4i = ferrari
+Mi 4c = libra
+Mi 4s = aqua
+Mi 5 = gemini
+Mi 5s = capricorn
+Mi 5s Plus = natrium
+Mi 5x = tiffany
+Mi 5c = meri
+Mi 6 = sagit
+Mi 6x = wayne
+Mi 8 = dipper
+Mi 8 SE = sirius
+Mi 8 Explorer Edition = ursa
+Mi 8 Lite = platina
+Mi 8 Pro = equuleus
+Mi 9 = cepheus
+Mi 9 Lite = pyxis / Mi CC9
+Mi 9 SE = grus
+Mi Play = lotus
+Mi CC9 Pro / Mi Note 10 = tucana
+Mi CC9e = laurus
+Mi CC9 Meitu Edition = vela
+Mi 10 = umi
+Mi 10 Pro = cmi
+Mi 10 Lite = vangogh
+Mi 10 Ultra = cas
+Mi 10T Lite = gauguin
+Mi 10T = apollo
+Mi 10T Pro = apollopro
+Mi 10i = gauguininpro
+Mi 11 = venus
+Mi 11X / Redmi K40 / POCO F3 = alioth
+Mi 11 Pro = star
+Mi 11 Lite = courbet
+Mi 11 Lite 5G = renoir
+Mi 11 Ultra = star
+Xiaomi 12 = cupid
+Xiaomi 12 Pro = zeus
+Xiaomi 12 Ultra = zeus
+Xiaomi 12X = psyche
+Xiaomi 12 Pro Dimensity = damuier
+Xiaomi 13 = fuxi
+Xiaomi 13 Pro = nuwa
+Xiaomi 13 Ultra = ishtar
+Xiaomi 13 Lite = ziyi
+Xiaomi 14 = houji
+Xiaomi 14 Pro = shennong
+Xiaomi 14 Ultra = aurora
+Xiaomi 15 = dada
+Xiaomi 15 Pro = haotian
+Xiaomi 15 Ultra = xuanyuan
+Xiaomi 17 = pudding
+Xiaomi 17 Pro = pandora
+Xiaomi 17 Pro Max = popsicle
+Xiaomi 17 Ultra = nezha
+
+Mi Note Series
+Mi Note 1 = virgo
+Mi Note Pro = leo
+Mi Note 2 = scorpio
+Mi Note 3 = jason
+Mi Note 10 Pro = tucana
+Mi Note 10 Lite = toco
+
+Mi Max Series
+Mi Max 32GB = hydrogen
+Mi Max Pro 64GB / 128GB = helium
+Mi Max 2 = oxygen
+Mi Max 3 = nitrogen
+
+Mi Mix Series
+Mi Mix = lithium
+Mi Mix 2 = chiron
+Mi Mix 2S = polaris
+Mi Mix 3 = perseus
+Mi Mix 5G = andromeda
+Xiaomi Mix 4 = odin
+Xiaomi Mix Fold 2 = zizhan
+Xiaomi Mix Fold 3 = babylon
+Xiaomi Mix Fold 4 = goku
+Xiaomi Mix Flip = ruyi
+
+Mi Pad Series
+Mi Pad = mocha
+Mi Pad 2 = latte
+Mi Pad 3 = cappu
+Mi Pad 4 = clover
+Mi Pad 5 = nabu
+
+POCO F Series
+POCO F1 = beryllium
+POCO F2 Pro / Redmi K30 Pro = lmi
+POCO F3 / Xiaomi Mi 11X / Redmi K40 = alioth
+POCO F3 GT / Redmi K40 Gaming = ares
+POCO F4 / Redmi K40S = munch
+POCO F4 GT = ingres
+POCO F5 = marble
+POCO F5 Pro = mondrian
+POCO F6 = mayfly
+POCO F6 Pro = vermeer
+
+POCO X Series
+POCO X2 = phoenixin
+POCO X3 NFC / POCO X3 (India) = surya
+POCO X3 Pro = vayu
+POCO X3 GT = chopin
+POCO X4 Pro 5G / Redmi Note 11 Pro 5G = veux
+POCO X4 GT = xaga
+POCO X5 5G = moonstone
+POCO X5 Pro 5G / Redmi Note 12 Pro 5G = redwood
+POCO X6 5G / Redmi K60 Pro = garnet
+POCO X6 Pro 5G / Redmi Note 13 Pro = duchamp
+
+POCO M Series
+POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite = miatoll
+POCO M2 Reloaded = shiva
+POCO M3 = citrus
+POCO M3 Pro 5G / Redmi Note 10 5G = camellia
+POCO M4 Pro = fleur
+POCO M4 Pro 5G = evergreen
+POCO M4 5G / Redmi 10 5G / Redmi 11 Prime 5G = light
+POCO M5 / Redmi 11 Prime = rock
+POCO M5s / Redmi Note 10S = rosemary_p
+POCO M6 Pro 4G = emerald
+POCO M6 Pro 5G / Redmi 12 5G = sky
+
+POCO C Series
+POCO C40 / POCO C40+ = frost
+POCO C50 / Redmi A1 / Redmi A1+ = ice
+POCO C51 / Redmi A2 / Redmi A2+ = water
+POCO C55 / Redmi 12C = earth
+POCO C65 / Redmi 13C = gale
+
+Motorola Razr Series (Foldables)
+Motorola Razr Ultra (2025) = zeus
+Motorola Razr+ (2025) = hera
+Motorola Razr (2025) = venus
+Motorola Razr+ (2024) / Razr 40 Ultra = juno
+Motorola Razr (2023) / Razr 40 = hali
+
+Motorola Edge Series (Flagship/Premium)
+Motorola Edge 50 Ultra / Edge X50 = kendall
+Motorola Edge 50 Pro / Edge X50 Pro = genesis
+Motorola Edge 50 Fusion = cairo
+Motorola Edge+ (2023) / Edge 40 Pro / Edge X40 = racer
+Motorola Edge 40 = malta
+Motorola Edge 30 Ultra = frontier
+Motorola Edge 30 Pro / Edge+ (2022) = p3
+Motorola Edge / Edge+ (2020) = riga / odyssey
+
+Moto G Series (Mid-Range/Budget)
+Motorola Moto G (2025) = tapa
+Motorola Moto G Power (2025) = hawaii
+Motorola Moto G Stylus 5G (2025) = gale
+Moto G84 5G = oslo
+Moto G73 5G = capri
+Moto G62 5G = bali
+Moto G52 = rhode
+Moto G42 = hawaiip
+Moto G32 = devon
+Moto G Power (2022) = pomelo
+Moto G100 / Edge S (2021) = nio
+
+LG G Series (Flagship)
+LG Optimus G = e970
+LG G2 = d802
+LG G3 = isis
+LG G4 = h815
+LG G5 = h850
+LG G6 = lucye
+LG G7 ThinQ = judyln
+LG G8 ThinQ = g8x
+
+LG V Series (Multimedia Flagship)
+LG V10 = h960
+LG V20 = h910
+LG V30 / V30+ = joan
+LG V40 ThinQ = storm
+LG V50 ThinQ = enola
+LG V60 ThinQ = lms
+
+LG Final & Experimental Devices
+LG Velvet (5G) = caymanslm
+LG Velvet 2 Pro (Unreleased) = rainbow
+LG Wing = wing
+LG Rollable (Unreleased) = horizon
+LG Stylo 6 = cairo
+
+Pixel Series
+Pixel C = ryu
+Pixel 1 = sailfish
+Pixel 1 XL = marlin
+Pixel 2 = walleye
+Pixel 2 XL = taimen
+Pixel 3 = blueline
+Pixel 3 XL = crosshatch
+Pixel 3a = sargo
+Pixel 3a XL = bonito
+Pixel 4 = flame
+Pixel 4 XL = coral
+Pixel 4a = sunfish
+Pixel 5 = redfin
+Pixel 4a 5G = bramble
+Pixel 5a = barbet
+Pixel 6 = oriole
+Pixel 6 Pro = raven
+Pixel 6a = bluejay
+Pixel 7 = panther
+Pixel 7 Pro = cheetah
+Pixel 7a = lynx
+Pixel Tablet = tangorpro
+Pixel Fold = felix
+Pixel 8 = shiba
+Pixel 8 Pro = husky
+Pixel 8a = akita
+Pixel 9 = tokay
+Pixel 9 Pro = caiman
+Pixel 9 Pro XL = komodo
+Pixel 9 Pro Fold = comet
+Pixel 9a = tegu
+Pixel 10 = frankel
+Pixel 10 Pro = blazer
+Pixel 10 Pro XL = mustang
+Pixel 10 Pro Fold = rango
+
+Samsung Galaxy Series
+Galaxy S I = vibrant
+Galaxy S II = i9100
+Galaxy S III = m0
+Galaxy S4 = ja3g
+Galaxy S5 = klte
+Galaxy S6 = zeroflte
+Galaxy S7 = herolte
+Galaxy S8 = dreamlte
+Galaxy S9 = star
+Galaxy S10 = beyond1
+Galaxy S20 = x1s
+Galaxy S20+ = y2s
+Galaxy S20 Ultra = z3s
+Galaxy S21 = g2x
+Galaxy S21+ = t2x
+Galaxy S21 Ultra = p3x
+Galaxy S21 FE = r9q
+Galaxy S22 = r4x
+Galaxy S22+ = s4x
+Galaxy S22 Ultra = g4x
+Galaxy S23 FE = r11s
+Galaxy S24 = b3q
+Galaxy S24+ = d3q
+Galaxy S24 Ultra = e3q
+Galaxy S25 = F0
+Galaxy S25 = f0
+Galaxy S25+ = F1
+Galaxy S25+ = f1
+Galaxy S25 Ultra = F2
+Galaxy S25 Ultra = f2
+
+Samsung Galaxy Z series
+Galaxy Fold 1 = Winner
+Galaxy Z Flip 1 (4G) = Bloom
+Galaxy Z Fold 2 = Q2
+Galaxy Z Flip 3 = B3
+Galaxy Z Fold 3 = Q3
+Galaxy Z Flip 4 = b4q
+Galaxy Z Fold 4 = q4q
+Galaxy Z Flip 5 = b5q
+Galaxy Z Fold 5 = q5q
+Galaxy Z Flip 6 = B6
+Galaxy Z Fold 6 = Q6
+Galaxy Z Fold 6 Ultra = Q6A
+Galaxy Z Flip 7 = B7
+Galaxy Z Fold 7 = Q7
+Galaxy Note = n7000
+Galaxy Note II = t0
+Galaxy Note 3 = hltetmo
+Galaxy Note 4 = treltexx
+Galaxy Note 5 = noblelte
+Galaxy Note 8 = greatlte
+Galaxy Note 9 = crownlte
+Galaxy Note 10 = davinci
+Galaxy Note 10+ = d2q
+Galaxy Note 20 = c1
+Galaxy Note 20 Ultra = c2q
+
+
+Miscellaneous
+Sideload Device = 
