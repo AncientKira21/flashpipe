@@ -35,12 +35,16 @@ FlashPipe provides a streamlined interface for:
 
 ### Download & Releases
 Click the link below to find the latest builds, source zips, and release notes:
-👉 **[FlashPipe Releases](https://gitlab.com/ancientkira/flashpipe/-/releases/)** 📥
+👉 **[FlashPipe Releases](https://github.com/ancientkira/flashpipe/releases/)** 📥
+👉 **[FlashPipe GitLab Mirror](https://gitlab.com/ancientkira/flashpipe/-/releases/)** 📥
 
 ### Installation
 1. Download the `FlashPipe_0.6_RC.dmg` from the releases page.
 2. Open the DMG and drag **FlashPipe** to your `/Applications` folder.
 3. **Security Note:** Since I don't have a paid developer account, you may need to right-click the app and select **Open**, or allow it in **System Settings > Privacy & Security** if macOS blocks the initial launch. 🛡️
+
+### Compatibility
+The app requires macOS 14 or later. 💻⬆️
 
 ---
 
